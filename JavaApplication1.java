@@ -17,6 +17,12 @@ public class JavaApplication1 {
     public static void main(String[] args) {
         // TODO code application logic here
       System.out.println("Hello World");
+      
+      int x= 5;
+      if (x > 4)
+      {
+        System.out.println("greater");  
+      }
     }
     
 }
