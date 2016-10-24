@@ -26,6 +26,8 @@ public class JavaApplication1 {
 	  //todo
 	  //1-Ask user for his age
 	  //2-Calculate the number of months
+	  int age = 30;
+	  System.out.println("Age =", age);
     }
     
 }
