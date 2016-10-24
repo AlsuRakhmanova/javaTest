@@ -23,6 +23,9 @@ public class JavaApplication1 {
       {
         System.out.println("greater");  
       }
+	  //todo
+	  //1-Ask user for his age
+	  //2-Calculate the number of months
     }
     
 }
